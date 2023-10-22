@@ -7,7 +7,6 @@
 - [User Guide](#user-guide)
 - [Technologies and Dependencies](#technologies-and-dependencies)
 - [Author(s)](#authors)
-- [Image](#image)
 
 
 
@@ -30,8 +29,4 @@ Swap your tokens fast and easy using Metamask.
 ---
 <a href="https://github.com/dar96" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/100532984?s=400&u=9e96b8005857d1df800396d8efa80eb0ca16b45e&v=4" alt="dar96" width="40" height="40"/> </a>
 
-### Image
----
-
-![Dex](https://github.com/dar96/DEX/assets/100532984/c48588a7-28f6-4fa5-9d93-6f49eb63acd3)
 
